@@ -1,0 +1,26 @@
+.login-form {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.form-item {
+    margin-bottom: 16px;
+}
+
+.ant-form-item-required {
+    color: #CBD5e0 !important;
+
+}
+.mr-20-email {
+    margin-right: 20px !important;
+}
+
+.ant-card-head-title .title-text{
+    text-align: center !important;
+    font-size: 30px !important;
+    display: block !important;
+}
+.btn-100{
+    width: 100% !important;
+    margin-top: 20px!important;
+}
